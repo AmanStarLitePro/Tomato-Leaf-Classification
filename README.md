@@ -1,6 +1,6 @@
-# Tomato Leaf Classification
+# Tomato Plant Leaf Disease Classification
 
-Welcome to the **Potato Disease Classification** repository! , this project leverages cutting-edge computer vision and machine learning technologies to enhance Tomato Leaf Disease Classification.
+Welcome to the **Tomato Plant Disease Classification** repository! , this project leverages cutting-edge computer vision and machine learning technologies to enhance Tomato Leaf Disease Classification.
 
 ## 📄 Introduction
 This code sets up a FastAPI server that utilizes a pre-trained TensorFlow model to classify images uploaded via API into different classes of Tomato Leaf diseases.
